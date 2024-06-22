@@ -1,0 +1,17 @@
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\bin\Debug\net8.0-windows\JoreneCalc.exe
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\bin\Debug\net8.0-windows\JoreneCalc.deps.json
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\bin\Debug\net8.0-windows\JoreneCalc.runtimeconfig.json
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\bin\Debug\net8.0-windows\JoreneCalc.dll
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\bin\Debug\net8.0-windows\JoreneCalc.pdb
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\obj\Debug\net8.0-windows\JoreneCalc.Form1.resources
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\obj\Debug\net8.0-windows\JoreneCalc.csproj.GenerateResource.cache
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\obj\Debug\net8.0-windows\JoreneCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\obj\Debug\net8.0-windows\JoreneCalc.AssemblyInfoInputs.cache
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\obj\Debug\net8.0-windows\JoreneCalc.AssemblyInfo.cs
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\obj\Debug\net8.0-windows\JoreneCalc.csproj.CoreCompileInputs.cache
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\obj\Debug\net8.0-windows\JoreneCalc.dll
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\obj\Debug\net8.0-windows\refint\JoreneCalc.dll
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\obj\Debug\net8.0-windows\JoreneCalc.pdb
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\obj\Debug\net8.0-windows\JoreneCalc.genruntimeconfig.cache
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\obj\Debug\net8.0-windows\ref\JoreneCalc.dll
+C:\Users\joren\source\repos\JoreneCalc\JoreneCalc\obj\Debug\net8.0-windows\JoreneCalc.Properties.Resources.resources
